@@ -567,19 +567,19 @@ export default function App() {
 				
 			<div id="footer" style={{display: 'block'}} >	
 				<span id="footerbg" style={{display: 'block'}} className={styles.footerbg}> </span>
-				<a style={{display: 'block'}} href="https://t.me/qoritele" target="_blank" rel="noopener noreferrer" >
+				<a style={{display: 'block'}} href="https://t.me/ShanGalih" target="_blank" rel="noopener noreferrer" >
 						<span className={styles.teleIcon}> </span>
 					</a>
 					
-				<a style={{display: 'block'}} href="https://discordapp.com/users/427110583079272479" target="_blank" rel="noopener noreferrer" >
+				<a style={{display: 'block'}} href="https://discordapp.com/users/970197863747432509" target="_blank" rel="noopener noreferrer" >
 						<span className={styles.dcIcon}> </span>
 					</a>
 					
-				<a style={{display: 'block'}} href="https://github.com/mbukhori" target="_blank" rel="noopener noreferrer" >
+				<a style={{display: 'block'}} href="https://github.com/Shandika-galih" target="_blank" rel="noopener noreferrer" >
 						<span className={styles.gitIcon}> </span>
 					</a>
 					
-				<a style={{display: 'block'}} href="https://web.facebook.com/muhammadbukhori" target="_blank" rel="noopener noreferrer" >
+				<a style={{display: 'block'}} href="https://web.facebook.com/Shandika" target="_blank" rel="noopener noreferrer" >
 						<span className={styles.fbIcon}> </span>
 					</a>
 					

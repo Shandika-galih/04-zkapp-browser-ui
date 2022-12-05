@@ -165,8 +165,8 @@
 	background-image: url("../images/banner.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
-	height: 142px;
+	width: 400px;
+	height: 100px;
 	position: absolute;
 	left: 250px;
 	top: 150px;
@@ -177,7 +177,7 @@
 	background-image: url("../images/banner2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 250px;
+	width: 220px;
 	height: 70px;
 	position: absolute;
 	left: 335px;
@@ -722,7 +722,7 @@
 	background-image: url("../images/teleicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
+	width: 70px;
 	height: 70px;
 	position: absolute;
 	left: 280px;
@@ -734,7 +734,7 @@
 	background-image: url("../images/dcicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
+	width: 70px;
 	height: 70px;
 	position: absolute;
 	left: 380px;
@@ -746,7 +746,7 @@
 	background-image: url("../images/fbicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
+	width: 70px;
 	height: 70px;
 	position: absolute;
 	left: 480px;
@@ -758,7 +758,7 @@
 	background-image: url("../images/giticon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
+	width: 70px;
 	height: 70px;
 	position: absolute;
 	left: 580px;
@@ -781,7 +781,8 @@
   .code {
     background: #111;
   }
-  /* .logo img {
-  } */
+  .logo img {
+	border-color: #222;
+  }
   
 }
